@@ -16,9 +16,9 @@ public class MyAtoiApp {
     }
 
     public static void main(String[] args) {
-        System.out.println(atoi("357")); // 123
-        System.out.println(atoi("+735")); // 123
-        System.out.println(atoi("-573")); // -123
+        System.out.println(atoi("357")); // 357
+        System.out.println(atoi("+735")); // 735
+        System.out.println(atoi("-573")); // -573
         System.out.println(atoi("+0")); // 0
         System.out.println(atoi("10")); // 10
         System.out.println(atoi("-9")); // -9
